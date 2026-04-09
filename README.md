@@ -9,11 +9,12 @@ Scraper que extrai vagas de Python do site https://realpython.github.io/fake-job
   - Headers com `User-Agent` (Para evitar bloqueio)
 
 📁 webscraper_simples/
-├── 📄 main.py
-├── 📄 README.md
-├── 📄 requirements.txt  ✅
-├── 📄 .gitignore
-└── 📄 vagas_python.csvpython.csv # Resultado (gerado)
+
+    ├── 📄 main.py
+    ├── 📄 README.md
+    ├── 📄 requirements.txt  ✅
+    ├── 📄 .gitignore
+    └── 📄 vagas_python.csvpython.csv # Resultado (gerado)
 
 
 
