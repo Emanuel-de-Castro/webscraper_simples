@@ -29,7 +29,7 @@ Scraper que extrai vagas de Python do site https://realpython.github.io/fake-job
 1. Clone o repositório
   git clone https://github.com/Emanuel-de-Castro/webscraper_simples.git
 
-  cd webscraper_simples
+    cd webscraper_simples
 
 3. Instale dependências
    
