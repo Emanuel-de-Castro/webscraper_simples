@@ -8,7 +8,7 @@ Scraper que extrai vagas de Python do site https://realpython.github.io/fake-job
   - Salva automaticamente em `vagas_python.csv`
   - Headers com `User-Agent` (Para evitar bloqueio)
 
-📁 webscraper_simples/
+    📁 webscraper_simples/
 
     ├── 📄 main.py
     ├── 📄 README.md
