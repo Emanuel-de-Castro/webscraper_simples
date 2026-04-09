@@ -12,7 +12,7 @@ Scraper que extrai vagas de Python do site https://realpython.github.io/fake-job
 
     ├── 📄 main.py
     ├── 📄 README.md
-    ├── 📄 requirements.txt  ✅
+    ├── 📄 requirements.txt
     ├── 📄 .gitignore
     └── 📄 vagas_python.csvpython.csv
 
