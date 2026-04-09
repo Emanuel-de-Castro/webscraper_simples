@@ -2,7 +2,7 @@
 
 Scraper que extrai vagas de Python do site https://realpython.github.io/fake-jobs/
 
-#Funcionalidades
+# Funcionalidades
   - Filtra apenas vagas com "Python" no título
   - Extrai: Título, Empresa, Local, Data (MM/YYYY), Descrição (máx 200 caracteres)
   - Salva automaticamente em `vagas_python.csv`
@@ -24,17 +24,10 @@ Scraper que extrai vagas de Python do site https://realpython.github.io/fake-job
   git clone https://github.com/Emanuel-de-Castro/webscraper_simples.git
   cd webscraper_simples
 
-2. Ambiente virtual
-      # Windows
-      python -m venv .venv
-      .venv\Scripts\activate
+2. Instale dependências
+   
+      pip install requests
     
-    # Linux/Mac
-      python3 -m venv .venv
-      source .venv/bin/activate
-
-3. Instale dependências
-  pip install requests
-  pip install beautifulsoup4
-
-
+      pip install beautifulsoup4
+    
+    
