@@ -57,6 +57,6 @@ with open('vagas_python.csv', 'w', newline='', encoding='utf-8') as arquivo_csv:
     writer.writeheader()
     writer.writerows(dados_vagas)
 
-print(f"✅ Arquivo 'vagas_python.csv' criado com {len(dados_vagas)} vagas!")
+print(f"Arquivo 'vagas_python.csv' criado com {len(dados_vagas)} vagas!")
 
 
